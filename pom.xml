@@ -5,7 +5,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>patternone.bruh</name>
     <properties>
-        <exec.mainClass>patternone.bruh.main</exec.mainClass>
+        <exec.mainClass>patternone.bruh.Main</exec.mainClass>
         <spring.version>2.2.8.RELEASE</spring.version>
     </properties>
     <build>
